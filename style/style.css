@@ -25,6 +25,12 @@
 }
 .dark-3{
     color: #757575;
+   
+
+
+}
+.background-color{
+   background-color: #f1e1d5;
 }
 .btn-primary{
     background-color: #FD6E0A;
@@ -43,8 +49,7 @@
     background-image: url(../images/developer.png), url(../images/header_bg.png);
     background-repeat: no-repeat;
     background-position: left top , right bottom ;
-  margin-top: 35px;
-  margin-left: 20px;
+   
 }
 /* nav style */
 nav{
@@ -146,7 +151,8 @@ margin-bottom: 20px;
     right: 38px;
     top: 161px;
     bottom: 3419px;
-  
+   
+ 
 
    
 }
