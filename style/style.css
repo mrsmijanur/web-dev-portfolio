@@ -60,8 +60,11 @@
     color: rgb(117, 117, 117);
 
     font-size: 18px;
-    font-weight: 400;
+    font-weight: 600;
 
+}
+.text-center{
+    text-align: center;
 }
 
 /* shere-style end */
@@ -231,4 +234,30 @@ rgb(71, 71, 71);
     color: #050505;
     font-size: 20px;
 font-weight: 500;
+}
+/* skill section */
+.what-i-do{
+   
+    margin: 30px;
+    
+  
+
+}
+
+.sikll-container{
+   display: flex;
+ gap: 24px;
+   
+ 
+    
+
+}
+.sikll{
+    border-radius: 5px;
+   
+    padding: 30px;
+    box-shadow: 0px 6px 50px 0px rgb(121, 115, 115);
+    margin-top: 50px;
+
+    
 }
