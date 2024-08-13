@@ -37,7 +37,10 @@
     background-color: #f1e1d5;
 }
 
-.btn-primary {
+.btn-primary { 
+    cursor: pointer;
+    
+    
     background-color: #FD6E0A;
     color: white;
     font-weight: bold;
@@ -46,6 +49,7 @@
 
     border-radius: 5px;
     border: none;
+    
 }
 
 .section-title {
@@ -221,6 +225,7 @@ border-radius: 20px;
     display: flex;
     justify-content: space-around;
     margin-top: 30px ;
+    flex-wrap: wrap;
     
   
 
@@ -246,8 +251,9 @@ font-weight: 500;
 
 .sikll-container{
    display: flex;
- gap: 24px;
    
+ gap: 24px;
+
  
     
 
@@ -261,3 +267,12 @@ font-weight: 500;
 
     
 }
+/* Resume section */
+.section-title{
+    text-align: center;
+    margin: 0px;
+}
+
+
+
+
