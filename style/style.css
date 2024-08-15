@@ -337,3 +337,26 @@ text-align: left;
     text-align: center;
     margin: 100px auto;
 }
+/* footer section star here */
+footer{
+    display: flex;
+   padding: 130px 230px;
+   gap: 50px;
+  
+}
+.footer-column{
+    width: 50%;
+}
+footer input[type=text], footer input[type=email], footer input[type=textarea] {
+    display: block;
+    border-radius: 5px;
+    border: none;
+background: rgb(255, 255, 255);
+padding: 18px 340px 18px 30px ;
+margin-top: 30px;
+margin-bottom: 24px;
+
+}
+footer .section-description{
+padding: 30PX 0px;
+}
